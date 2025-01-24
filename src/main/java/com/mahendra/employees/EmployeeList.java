@@ -12,7 +12,7 @@ public class EmployeeList {
     }
     
     static{
-        employeeList.add(new Employee("John","Doe","12-12-1980","Manager","Sales","john.smith@abc.com"));
+        employeeList.add(new Employee("JohnSnow","Doe","12-12-1980","Manager","Sales","john.smith@abc.com"));
         employeeList.add(new Employee("Laura","Adams","02-11-1979","Manager","IT","laura.adams@abc.com"));
         employeeList.add(new Employee("Peter","Williams","22-10-1966","Coordinator","HR","peter.williams@abc.com"));
         employeeList.add(new Employee("Joana","Sanders","11-11-1976","Manager","Marketing","joana.sanders@abc.com"));
